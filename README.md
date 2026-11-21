@@ -1,16 +1,23 @@
-## Hi there 👋
+# Clickzyo
 
-<!--
-**Clickzyo/Clickzyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trending US news, money and everyday questions, explained in plain English.
 
-Here are some ideas to get you started:
+Read every story at https://clickzyo.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What we cover
+
+- US news, explained: what happened, why it matters and what to do next
+- Money: bills, banking, prices and saving tips for everyday households
+- Explainers: clear answers to the questions people are searching for right now
+- Free planners and printables for home and holidays
+
+## How we work
+
+Every article is researched and drafted with the help of AI tools, then every fact is checked against the linked sources and reviewed by our editor, Aleesha Anam. Political stories stay neutral, sourced and dated.
+
+## Find us
+
+- Website: https://clickzyo.com
+- Medium: https://medium.com/@clickzyo
+- Pinterest: https://www.pinterest.com/clickzyo12/
+- Contact: clickzyo12@gmail.com
